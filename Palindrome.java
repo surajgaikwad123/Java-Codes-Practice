@@ -44,9 +44,6 @@ public class Palindrome {
 		right--;
 		}
 		
-		
-		
-		
 		///if flag is false then its not palindrome .. if flag is true then it is palindrome
 		if(Flag == true)
 		{
